@@ -6,7 +6,7 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
+name: mHealthDemoCamp
+url: http://mhealthdemocamp.com
+description: Mobile Health Demo camp
+twitter: mHealthDemoCamp
